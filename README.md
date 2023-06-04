@@ -29,7 +29,8 @@ The game has 9 difficulties:
 - 8-inferno: large amount of bad balls, very fast ball speed, fast ball shooting rate, short paddle, 8pts per ball
 - 9-mission impossible: large amount of bad balls, extremely fast ball speed, very fast ball shooting rate, very short paddle, 10pts per ball
 
-Following is the game start screen:
+### Game start screen
+
 ![Game Start](./game_start.jpg)
 
 
